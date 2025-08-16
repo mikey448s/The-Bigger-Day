@@ -113,6 +113,6 @@ The new tracklist may be a little misleading, as I've combined some parts of son
 11. *Sun Come Down*
 12. *We Go High* **(Zanies and Fools, We Go High)**
 
-In total, I've kept **7/22 original tracks untouched**, **frankesteined 8 songs into 5 more concise songs**, and **completely scrapped 4 songs and 3 skits from the remix**.
+In total, I've kept **7/22 original tracks untouched**, **frankesteined 8 songs into 5 more concise songs**, and **completely scrapped 4 songs and 3 skits from the remix**. The runtime goes from 77m -> 47m.
 
 I feel the general consensus of The Big Day is that it's a bunch of mid and cringe. The reason I remixed it is because I think it's truly some good mac n cheese surround by literal shit. Unlike an overall boring album, this one can be cleaned and polished. **With this remix, I truly believe it goes from one of the worst albums of all time -> being in conversation with 10 Day, Acid Rap, and Coloring Book.** I am no producer or sound engineer, so there are definitely parts I think could be done better with the "Frankensteining" of tracks. But overall I will be bumping this remix and wishing this is what dropped 6 years ago!
