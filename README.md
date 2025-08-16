@@ -2,11 +2,11 @@
 Mikey's Remix of The Big Day by Chance the Rapper
 
 ## Brief
-This repo contains remixed songs from The Big Day, which combine with some original songs to form a **much** better album. The following sections explain how to import the audio files into a streaming service. I have successfully imported into Spotify on Desktop and iOS, but I believe it should be *even easier* on Apple Music and with AndroidOS. So the guide should cover the worst case scenario.
+This repo combines remixed songs with untouched originals to form a **much** better album. The following sections explain how to import the audio files into a streaming service. I have successfully imported into Spotify on Desktop and iOS, but I believe it should be *even easier* on Apple Music and with AndroidOS. So the guide should cover the worst case scenario.
 
 **This will take about 5m-15m to complete.** Based on how much better the album is after, I think it's more than worth it if you like Chance but never gave The Big Day much attention.
 
-**The exact changes to the album are at the [bottom of this file](#detailed-explanation) (to avoid any spoilers for those who want to experience it through listening.**
+**The exact changes to the album are at the [bottom of this file](#detailed-explanation) (to avoid any spoilers for those who want to experience it through listening).**
 
 ## Spotify on Desktop
 I found that the .m4a files are the highest audio quality files that work in this case (lossless compression). This is also the easiest way to listen to the remixed version of the album!
