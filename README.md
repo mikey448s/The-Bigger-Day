@@ -6,7 +6,7 @@ This repo contains remixed songs from The Big Day, which combine with some origi
 
 **This will take about 5m-15m to complete.** Based on how much better the album is after, I think it's more than worth it if you like Chance but never gave The Big Day much attention.
 
-**The exact changes to the album are at the bottom of this file [here](#changes-in-the-remix) (to avoid any spoilers for those who want to experience it through listening.**
+**The exact changes to the album are at the [bottom of this file](#changes-in-the-remix) (to avoid any spoilers for those who want to experience it through listening.**
 
 ## Spotify on Desktop
 I found that the .m4a files are the highest audio quality files that work in this case (lossless compression). This is also the easiest way to listen to the remixed version of the album!
@@ -21,7 +21,7 @@ I found that the .m4a files are the highest audio quality files that work in thi
 With the filepath to the M4A folder turned **on**, you should have a *Local Files* playlist located in your *Library*.
 
 7. Add all 5 of the new songs in *Local Files* to a new playlist. I titled my new playlist *The Bigger Day* to differentiate it from the original album.
-8. Organize the songs in the order specified at the bottom of this page [here](#changes-in-the-remix) for what I consider the optimized listening experience :)
+8. Organize the songs in the order specified at the [bottom of this page](#changes-in-the-remix) for what I consider the optimized listening experience :)
 
 ## Spotify on iOS
 I found that the .m4a files will upload fine to the mobile version of Spotify, but for some reason the cover art doesn't transfer correctly. For this reason, I prefer the .mp3 versions of the songs (encoded at the max 320kbps rate). If you're an audiofile, you will of course hear the difference. But the average person, like myself, prefers to see pretty pictures better. I can **barely** notice that the sound is slightly more full with the .m4a files.
@@ -51,7 +51,7 @@ This should make the songs available on the mobile device.
 The 5 remixed songs should now be available in the *Local Files* playlist in the Spotify app
 
 7. Add all 5 of the new songs in *Local Files* to a new playlist. I titled my new playlist *The Bigger Day* to differentiate it from the original album.
-8. Organize the songs in the order specified at the bottom of this page [here](#changes-in-the-remix) for what I consider the optimized listening experience :)
+8. Organize the songs in the order specified at the [bottom of this page](#changes-in-the-remix) for what I consider the optimized listening experience :)
 
 ## Other Streaming Services and Operating Systems
 Good luck! You should be able to find plenty of information online, and my understanding is that it shouldn't be any harder than what I described above for Spotify, Desktop, and iOS.
